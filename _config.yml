@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /sound-work
+exclude: ['README.md']
